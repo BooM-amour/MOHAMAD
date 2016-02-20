@@ -17,7 +17,7 @@ return {
       "Addadmin: Add Sudo In Group."
       },
     patterns = {
-        "^([Aa]ddiman)$"
+        "^([Aa]addMahTaB)$"
         },
     run = run
 }
